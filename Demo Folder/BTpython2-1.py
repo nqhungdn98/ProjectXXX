@@ -1,0 +1,10 @@
+num1= float(input("Hãy nhập số: "))
+num2= float(input("Hãy nhập số: "))
+total= num1 + num2
+print(num1, "+", num2, "=", total)
+minus= num1 - num2
+print(num1, "-", num2, "=", minus)
+plus= num1 * num2
+print(num1, "*", num2, "=", plus)
+div= num1 / num2
+print(num1, "/", num2, "=", div)
